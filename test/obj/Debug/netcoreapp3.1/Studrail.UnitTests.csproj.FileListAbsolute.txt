@@ -1,0 +1,5 @@
+C:\Users\kanwar.johal\source\repos\StudRail\test\obj\Debug\netcoreapp3.1\Studrail.UnitTests.csproj.AssemblyReference.cache
+C:\Users\kanwar.johal\source\repos\StudRail\test\obj\Debug\netcoreapp3.1\Studrail.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanwar.johal\source\repos\StudRail\test\obj\Debug\netcoreapp3.1\Studrail.UnitTests.AssemblyInfoInputs.cache
+C:\Users\kanwar.johal\source\repos\StudRail\test\obj\Debug\netcoreapp3.1\Studrail.UnitTests.AssemblyInfo.cs
+C:\Users\kanwar.johal\source\repos\StudRail\test\obj\Debug\netcoreapp3.1\Studrail.UnitTests.csproj.CoreCompileInputs.cache

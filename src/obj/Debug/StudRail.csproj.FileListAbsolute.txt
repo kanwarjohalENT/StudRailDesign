@@ -1,0 +1,14 @@
+C:\Users\kanwar.johal\source\repos\StudRail\StudRail\obj\Debug\StudRail.csproj.CoreCompileInputs.cache
+C:\Users\kanwar.johal\source\repos\StudRail\StudRail\bin\Debug\StudRail.exe.config
+C:\Users\kanwar.johal\source\repos\StudRail\StudRail\bin\Debug\StudRail.exe
+C:\Users\kanwar.johal\source\repos\StudRail\StudRail\bin\Debug\StudRail.pdb
+C:\Users\kanwar.johal\source\repos\StudRail\StudRail\obj\Debug\StudRail.exe
+C:\Users\kanwar.johal\source\repos\StudRail\StudRail\obj\Debug\StudRail.pdb
+C:\Users\kanwar.johal\source\repos\StudRail\StudRail\obj\Debug\StudRail.csproj.AssemblyReference.cache
+C:\Users\kanwar.johal\source\repos\StudRail\src\bin\Debug\StudRail.exe.config
+C:\Users\kanwar.johal\source\repos\StudRail\src\bin\Debug\StudRail.exe
+C:\Users\kanwar.johal\source\repos\StudRail\src\bin\Debug\StudRail.pdb
+C:\Users\kanwar.johal\source\repos\StudRail\src\obj\Debug\StudRail.csproj.AssemblyReference.cache
+C:\Users\kanwar.johal\source\repos\StudRail\src\obj\Debug\StudRail.csproj.CoreCompileInputs.cache
+C:\Users\kanwar.johal\source\repos\StudRail\src\obj\Debug\StudRail.exe
+C:\Users\kanwar.johal\source\repos\StudRail\src\obj\Debug\StudRail.pdb
